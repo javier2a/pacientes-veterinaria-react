@@ -1,4 +1,4 @@
-# Pacientes Veteniraria React
+# Veterinary patients React
 
 * A simple app to manage a patient list in a veterinary clinic.
 
